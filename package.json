@@ -1,0 +1,26 @@
+{
+  "name": "papanipapi-heroku",
+  "version": "1.0.0",
+  "description": "sample connection between heroku to github",
+  "main": "demo_http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papanipapi/heroku.git"
+  },
+  "keywords": [
+    "heroku",
+    "github"
+  ],
+  "author": "Aldrin Papa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papanipapi/heroku/issues"
+  },
+  "homepage": "https://github.com/papanipapi/heroku#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}

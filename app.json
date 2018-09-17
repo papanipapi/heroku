@@ -1,1 +1,6 @@
-
+{
+  "name": "papanipapi-heroku",
+  "description": "sample connection between heroku to github",
+  "repository": "https://github.com/papanipapi/heroku",
+  "keywords": ["github", "express", "heroku"]
+}
